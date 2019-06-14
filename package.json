@@ -2,7 +2,9 @@
   "name": "bruce-proxy",
   "version": "1.0.0",
   "description": "a proxy server for my service",
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/the-purple-team/bruce-proxy.git"
