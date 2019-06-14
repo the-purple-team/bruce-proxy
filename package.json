@@ -1,0 +1,19 @@
+{
+  "name": "bruce-proxy",
+  "version": "1.0.0",
+  "description": "a proxy server for my service",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-purple-team/bruce-proxy.git"
+  },
+  "author": "Bruce J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-purple-team/bruce-proxy/issues"
+  },
+  "homepage": "https://github.com/the-purple-team/bruce-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
